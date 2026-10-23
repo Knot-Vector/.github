@@ -15,7 +15,7 @@ Knot Vector brings product design and engineering together to build digital tool
 
 ## Project directory
 
-**22 named projects and identities.** The directory includes software in development, working private tools, exploratory directions, connected client work, and a preserved archive. Development stages describe the work rather than promise a public release. Knot Lab belongs to Knot Vector; World Atlas and GeoIndex are one evolving geography project.
+**22 named projects and identities.** The directory includes software in development, working private tools, exploratory directions, connected client work, and a preserved archive.
 
 <picture>
   <source media="(max-width: 600px)" srcset="assets/catalog-mobile.webp">
@@ -38,12 +38,12 @@ Communication products and the systems beneath them: room state, durable records
 
 <img src="assets/banner-tools.webp" alt="" width="1600" height="200">
 
-Windows is a recurring workshop: arranging tools around a task, moving between machines, working with local files, and making everyday utilities feel considered. Shared visual language does not imply a shared runtime or completed integration.
+Desktop is a recurring workshop: arranging tools around a task, moving between machines, working with local files, and making everyday utilities feel considered. Shared visual language.
 
 | Project | Focus | Stage |
 | :-- | :-- | :-- |
-| **xSuite** | A planned Windows workbench for browsing, documents, code, terminals, and a password vault in nested split views. No runnable build yet. | Foundation in progress |
-| **xHost** | A Windows control center for remote desktops, terminals, files, transfers, and server health. | Private desktop application |
+| **xSuite** | Desktop workbench for browsing, documents, code, terminals, and a password vault in nested split views. No runnable build yet. | Foundation in progress |
+| **xHost** | Desktop control center for remote desktops, terminals, files, transfers, and server health. | Private desktop application |
 | **xPort** | Custom icons and Start Menu/Search access for portable Windows applications. No published software release. | Alpha development |
 | **xMeter** | A private Windows workspace concept for understanding authorized resources, allowances, and evidence. Real collection and installed runtime remain to be verified. | Owner preview |
 | **xShell** | Shell and terminal workflows, with an approved Prompt identity. | Product direction |
@@ -148,10 +148,6 @@ Tools are selected per project and per constraint. This is a view across the col
 **Keep evidence with the work.** Use builds, tests, direct inspection, and documented checks. Describe prototypes, planned capabilities, private tools, and retired services in their actual stages. Treat exports, source assets, and reproducible handovers as part of the product.
 
 **Build for continuity.** Prefer maintainable sources, understandable formats, clear recovery paths, and tools that remain useful outside the original session.
-
-## Archive
-
-**xZip — Offline / retired.** A Google Drive-to-Drive ZIP extraction service. Its architecture combined a TypeScript Worker, SQLite-backed Durable Objects, a Python extraction Container, ranged archive reads, and resumable Drive uploads. The deployment was retired on **22 October 2026**; source and architectural work remain preserved.
 
 ---
 
