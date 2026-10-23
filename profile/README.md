@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/knot-vector-on-dark.svg">
-  <img src="assets/knot-vector-on-light.svg" alt="Knot Vector" width="320" height="83">
+  <img src="assets/knot-vector-on-light.svg" alt="Knot Vector" width="320">
 </picture>
 
 <img src="assets/hero.webp" alt="Three angular forms in teal, graphite, and off-white converge through an ink-colored space." width="1600" height="560">
